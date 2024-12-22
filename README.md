@@ -1,6 +1,6 @@
 # football_training
 
-A new Flutter project.
+./lib/main.dart (Edit Football Related Links)
 
 ## Getting Started
 
